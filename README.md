@@ -1,4 +1,4 @@
-![logo](https://github.com/ShwetaKumari16/ShwetaKumari16/edit/main/README.md#L2)
+![logo](Banner.png)
 <h1 align="center">Hi 👋, I'm Shweta kumari</h1>
 <h3 align="center">I am working on frontend development.</h3>
 
