@@ -1,6 +1,5 @@
 ![logo](Banner.png)
 <h1 align="center">Hi 👋, I'm Shweta kumari</h1>
-<h3 align="center">I am working on frontend development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shwetakumari16&label=Profile%20views&color=0e75b6&style=flat" alt="shwetakumari16" /> </p>
 
