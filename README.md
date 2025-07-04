@@ -1,6 +1,6 @@
 ![logo](Banner.png)
 <h1 align="center">Hi 👋, I'm Shweta kumari</h1>
-
+<2 align="center">Data Analyst</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shwetakumari16&label=Profile%20views&color=0e75b6&style=flat" alt="shwetakumari16" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shwetakumari16" alt="shwetakumari16" /></a> </p>
